@@ -1,0 +1,41 @@
+/* nav */
+nav ul li {
+  display: inline;
+  margin: 20px;
+  font-family: roboto;
+}
+.head {
+  background-color: gray;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+.about {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.work {
+  background-color: aqua;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+.resume {
+  background-color: brown;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+.contact {
+  background-color: cornflowerblue;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
